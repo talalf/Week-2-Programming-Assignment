@@ -1,29 +1,0 @@
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[?1034h[0;35mTalal[0;32m[0;34m Week-2-Programming-Assignment $ [0m[K[0;35mTalal[0;32m[0;34m Week-2-Programming-Assignment $ [0mgit init
-Initialized empty Git repository in /Users/Talal/R projects/Week 2/Week-2-Programming-Assignment/.git/
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master #)[0;34m Week-2-Programming-Assignment $ [0mgit add .
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit remote add or igin https://github.com/talalf/Week-2-Programming-Assignment.git
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit push -u origi n master
-error: src refspec master does not match any.
-error: failed to push some refs to 'https://github.com/talalf/Week-2-Programming-Assignment.git'
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit push -u origi n master
-error: src refspec master does not match any.
-error: failed to push some refs to 'https://github.com/talalf/Week-2-Programming-Assignment.git'
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0m[K[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0m[K[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit init
-Reinitialized existing Git repository in /Users/Talal/R projects/Week 2/Week-2-Programming-Assignment/.git/
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit add .
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0msetwd[K[K[K[K[Kpwd
-/Users/Talal/R projects/Week 2/Week-2-Programming-Assignment
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0m
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-git remote add origin https://github.com/talalf/Week-2-Progra mming-Assignment.git
-fatal: remote origin already exists.
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0mgit push -u origin master
-error: src refspec master does not match any.
-error: failed to push some refs to 'https://github.com/talalf/Week-2-Programming-Assignment.git'
-]0;~/R projects/Week 2/Week-2-Programming-Assignment[0;35mTalal[0;32m (master *+)[0;34m Week-2-Programming-Assignment $ [0m
